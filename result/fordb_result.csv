@@ -1,0 +1,4 @@
+Model,Train Time (sec),Accuracy,Precision,Recall,F1-Score,y_pred
+STC,513.79,0.9363,0.9372,0.9329,0.9351,['Normal' 'Defect' 'Defect' ... 'Normal' 'Normal' 'Normal']
+WEASEL_V2,157.29,0.9475,0.9439,0.9497,0.9468,['Normal' 'Defect' 'Defect' ... 'Normal' 'Normal' 'Normal']
+MiniRocket,3.71,0.9303,0.9311,0.9268,0.929,['Normal' 'Defect' 'Defect' ... 'Normal' 'Normal' 'Normal']

@@ -1,0 +1,4 @@
+Model,Inference Time (sec),Accuracy,F1-Score,y_pred
+STC,87.44,0.9059,0.8995,['Defect' 'Normal' 'Normal' ... 'Normal' 'Defect' 'Normal']
+WEASEL_V2,40.29,0.9181,0.9125,['Defect' 'Normal' 'Normal' ... 'Normal' 'Defect' 'Normal']
+MiniRocket,0.18,0.8917,0.8849,['Defect' 'Normal' 'Normal' ... 'Normal' 'Defect' 'Normal']

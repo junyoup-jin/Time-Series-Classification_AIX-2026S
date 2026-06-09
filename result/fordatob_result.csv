@@ -1,0 +1,9 @@
+Model,Inference Time (sec),Accuracy,F1-Score,y_pred
+STC,94.19,0.8711,0.8711,['Normal' 'Defect' 'Defect' ... 'Normal' 'Normal' 'Defect']
+KNN_DTW,270.77,0.6049,0.615,['Defect' 'Defect' 'Normal' ... 'Defect' 'Normal' 'Normal']
+KNN_DTW_tuned,118.33,0.6027,0.6086,['Normal' 'Normal' 'Normal' ... 'Defect' 'Normal' 'Normal']
+KNN_Euclidean,0.54,0.599,0.5962,['Normal' 'Defect' 'Defect' ... 'Normal' 'Defect' 'Defect']
+TimeSeriesForest,12.95,0.7106,0.7211,['Defect' 'Defect' 'Defect' ... 'Defect' 'Defect' 'Defect']
+WEASEL_V2,35.93,0.9228,0.9242,['Normal' 'Defect' 'Defect' ... 'Normal' 'Normal' 'Normal']
+MiniRocket,0.17,0.8943,0.897,['Normal' 'Defect' 'Defect' ... 'Normal' 'Defect' 'Defect']
+InceptionTime,4.94,0.8291,0.8512,['Normal' 'Defect' 'Defect' ... 'Normal' 'Normal' 'Defect']
